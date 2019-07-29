@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elements>
+   <elements>
+    <info>
+        <name>Homunculus</name>
+        <description>5e homebrew</description>
+        <author url="http://www.dandwiki.com/wiki/5e_Homebrew">D&amp;D Wiki</author>
+        <update version="0.0.4">
+            <file name="race-LangarYadro.xml" url="https://github.com/Chrisdav92/DNDAuroraBuilder/blob/master/race-LangarYadro.xml" />
+        </update>
+    </info>   
    <element name="Langar Yadro" type="Race" source="Homebrew" id="ID_WIKI_RACE_LANGAR YADRO">
       <description>
          <p class="flavor">"Appearances rarely share the whole truth."</p>
