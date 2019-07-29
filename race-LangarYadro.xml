@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements>
+   <element name="Langar Yadro" type="Race" source="Homebrew" id="ID_WIKI_RACE_LANGAR YADRO">
+      <description>
+         <p class="flavor">"Appearances rarely share the whole truth."</p>
+         <h4>PHYSICAL DESCRIPTION</h4>
+         <p>Humanoid in shape, they retain a passing resemblance to an albino human if one didn't look too closely. Their hair, nails, and eye all show the color of their core providing insight into their abilities. If asked, a Langar Yadro would be able to show the underlying crystal lens that is affixed to their heads, as they do not have natural eyes. Rather they rely on a created "helper" which often times is a animal or smaller version of themselves.</p>
+         <h4>HISTORY</h4>
+         <p>Cursed by the goddess Olextia, the Langar Yadro have long sought to end the goddesses vengeance against them. Meaning " Cursed Core", they are true to their name. Infused with glowing cores that bear resemblance to common gems, magic animates the bodies of these creatures.
+
+            Created long ago on the island of Huwad as an experiment, their creator Siddel Maliyah began her affront to the gods. Desiring a child, but barren herself she endeavored to create something in her own image.
+
+            Years of toil finally paid off though as the first Cursed Core was created, a portion of her soul fleeing into a deep green emerald. The stone strengthened, empowered by the newly trapped soul shard. Over the course of a month and a day skin grew forth, forming a small humanoid body. Siddel had a daughter finally.
+
+            Over time the child grew, and Siddel continued her experiments making 5 children overall before it happened: Olextia took notice. Ever jealous, as her namesake implies, she cursed Siddel for daring to do what she could not: create life.
+
+            Langar Yadro now live a cursed existence, forever hiding their features as best they can to avoid Olextia's curse. Her worshippers hunt them down mercilessly, and yet they still persevere. Many have found themselves bound to their island home, never to leave Huwad and venture forth for the rest of the world to see.</p>
+         <h4>SOCIETY</h4>
+         <p>Langar Yadro live in relative peace. Since the Isle of Huwad is cloaked from outside forces, the race lives in harmony with another, though through stories told by Mother, Siddel Maliyah, would allow the Langar Yadro to know of the evils of the world. Ever courious and blessed with a body that can regenerate, they often try to understand pain and suffering of other races by inflicting it upon there own bodies. With the 5 different gems, they each gave way to different jobs each can do. But due to the fact that the cores can be removed and placed into different bodies,a Langar Yadro can "change" bodies to be better suited for a job.</p>
+         <h4>LANGAR YADRO NAMES</h4>
+         <p>Since Langar Yadro are able to change bodies, there are no female/male names. Rather, Langar Yadro go by what crystal they pocess. The orginal 5 have desinated names that follow the prefix of Langar Yadro, followed by the Crystal core they have, and finally ending with which "version" they are.</p>
+         <p>
+            <span class="feature">Crystal:</span>
+            Opal, Emerald, Garnet, Topaz, Sapphire
+            <br />
+         </p>
+         <h4>LANGAR YADRO TRAITS</h4>
+         <p>Langar Yadro were created by a Mother who wanted Children.</p>
+         <p>
+            <span class="feature">Ability Score Increase.</span>
+            Your Constitution score increases by 1. Depending on which Core you have, you will increase another AS by 1.
+            <br />
+            <span class="feature">Age.</span>
+            Langar Yadro being living constructs are unable to age from the point they are created at. Otherwise they are immortal.
+            <br />
+            <span class="feature">Alignment.</span>
+            Being created, Langar Yadro are soulless beings so they start out completely neutral, but innately tend towards a lawful alignment with a natural curiosity of the world they were brought into.
+            <br />
+            <span class="feature">Size.</span>
+            Langar Yadro are the same size and build as humans. Your size is Medium.
+            <br />
+            <span class="feature">Speed.</span>
+            Your base walking speed is 30 feet.
+            <br />
+            <span class="feature">Emphatic Learners.</span>
+            Langar Yadro are constructs but try to "feel" what each other is going through, this makes them excellent healers. You have proficiency in the Healing skill.
+            <br />
+            <span class="feature">Crystalline Core.</span>
+            Your soul is contained in a core made of one of the below types of magically reinforced material. As such, though your body may fail, the core can survive and you may find a new host.
+                Opal: Air
+                Emerald: Acid
+                Garnet: Fire
+                Topaz: Lightning
+                Sapphire: Water.
+            <br />
+            <span class="feature">Living Construct.</span>
+            You are a living construct. You do not need to eat, drink, breathe, or sleep. You never make Endurance checks to resist the effect of starvation, thirst, or suffocation. All other conditions and effects affect you normally.
+            <br />
+            <span class="feature">Powered by Magic.</span>
+            One failing the Langar Yadro have encountered is areas of dead magic. When you enter any area of dead magic, make a Wisdom saving throw, with a DC equal to 30 - your level. On a failure you enter a sleep like state until your core is removed from the area. On a success, you function as normal and do not need to save again in the area you are in.
+
+                Despite this failing though, their innate magic provides them with several special abilities. They gain DR 5 to the element their core embodies.
+
+                In addition they gain access to a focused blast of energy, which deals 1d6 damage of their core element. This increases by 1d6 at 5th, 11th and 18th level. They can use this ability a number of times equal to 1/5th their character level.
+            <br />
+            <span class="feature">The Core Survives.</span>
+            When you fail three death saves, your body is considered wasted and your core must be retrieved to be placed in a new body. Should someone pick you up, you may choose to have them make a Wisdom saving throw with a DC equal to 10+½ your character level. On a failure you may temporarily control their body. They may make a save again at the end of each round to assume control of their own body.
+
+                You regrow skin, forming a new body over the course of 1d4 weeks. In this time you can be carried and can still use the Innate Magic racial feature but cannot move under your own power.
+
+                A creature may attempt to break your core to end you completely. In this you have an AC of 23 and HP equal to your level plus your Constitution score. You may defend yourself while in this state, see Innate Magic below.
+            <br />
+            <span class="feature">Innate Magic.</span>
+            When you are in your core form during recovery your innate magic takes over to enable you to protect yourself. In this form you count as a Wild Magic sorcerer, and your level becomes equal to ⅕ your total character level. You have an AC equal 12 + ½ your character level. You may also cast spells based on your core.
+            <br />
+            <span class="feature">Curse of Olextia</span>
+            Ever jealous, Olextia loks for opportunities to ruin the lives of the creatures she has come to hate. Langar Yadro often find themselves under this curse at random times.
+                Whenever you make an ability check that requires Charisma there is a 1% chance that Olextia will interfere. This increases by 1% each time you make a check with no interference.
+            <br />
+            <span class="feature">Languages.</span>
+            You can speak, read, and write Common and one extra language of your choice. Langar Yadro gain the ability to speak, read, and understand the language of their primal element.
+
+                Opal: Auran
+                Emerald: Undercommon
+                Garnet: Ignus
+                Topaz: Terran
+                Sapphire: Aquan
+            <br />
+         </p>
+      </description>
+      <sheet display="false" />
+      <setters>
+         <set name="names">Opal, Emerald, Garnet, Topaz, Sapphire</set>
+         <set name="names-format">{{name}}</set>
+      </setters>
+      <rules>
+         <stat name="constitution" value="2" />
+         <select type="Racial Trait" name="Ability Score Increase (Langar Yadro)" supports="ID_DMMATT_TRAIT_LANGARYADRO_CONSTITUTION" />
+         <stat name="innate speed" value="30" bonus="base" />
+         <grant type="Size" id="ID_SIZE_MEDIUM" />
+         <grant type="Language" id="ID_LANGUAGE_COMMON" />
+         <select type="Language" name="Language (Langar Yadro)" />
+         <grant type="Racial Trait" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_EMPHATIC_LEARNERS" />
+         <grant type="Racial Trait" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_CRYSTALLINE_CORE" />
+         <grant type="Racial Trait" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_LIVING_CONSTRUCT" />
+         <grant type="Racial Trait" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_POWERED_BY_MAGIC" />
+         <grant type="Racial Trait" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_THE_CORE_SURVIVES" />
+         <grant type="Racial Trait" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_INNATE_MAGIC" />
+         <grant type="Racial Trait" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_CURSE_OF_OLEXTIA" />
+      </rules>
+   </element>
+   <element name="Emphatic Learners" type="Racial Trait" source="D&amp;D Wiki" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_EMPHATIC_LEARNERS">
+      <description>
+         <p>Langar Yadro are constructs but try to "feel" what each other is going through, this makes them excellent healers. You have proficiency in the Medicine skill.</p>
+      </description>
+      <sheet display="false">
+         <description>Langar Yadro are constructs but try to "feel" what each other is going through, this makes them excellent healers. You have proficiency in the Medicine skill.</description>
+      </sheet>
+      <rules>
+         <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_MEDICINE" />
+         <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_MEDICINE" />
+      </rules>
+   </element>
+   <element name="Crystalline Core" type="Racial Trait" source="D&amp;D Wiki" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_CRYSTALLINE_CORE">
+      <description>
+         <p>Your soul is contained in a core made of one of the below types of magically reinforced material. As such, though your body may fail, the core can survive and you may find a new host.</p>
+      </description>
+      <sheet>
+         <description>Your soul is contained in a core made of one of the below types of magically reinforced material. As such, though your body may fail, the core can survive and you may find a new host.</description>
+      </sheet>
+   </element>
+   <element name="Living Construct" type="Racial Trait" source="D&amp;D Wiki" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_LIVING_CONSTRUCT">
+      <description>
+         <p>You are a living construct. You do not need to eat, drink, breathe, or sleep. You never make Endurance checks to resist the effect of starvation, thirst, or suffocation. All other conditions and effects affect you normally.</p>
+      </description>
+      <sheet>
+         <description>You do not need to eat, drink, breathe, or sleep. You never make Endurance checks to resist the effect of starvation, thirst, or suffocation.</description>
+      </sheet>
+   </element>
+   <element name="Powered By Magic" type="Racial Trait" source="D&amp;D Wiki" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_POWERED_BY_MAGIC">
+      <description>
+         <p>One failing the Langar Yadro have encountered is areas of dead magic. When you enter any area of dead magic, make a Wisdom saving throw, with a DC equal to 30 - your level. On a failure you enter a sleep like state until your core is removed from the area. On a success, you function as normal and do not need to save again in the area you are in.
+
+            Despite this failing though, their innate magic provides them with several special abilities. They gain DR 5 to the element their core embodies.
+
+            In addition they gain access to a focused blast of energy, which deals 1d6 damage of their core element. This increases by 1d6 at 5th, 11th and 18th level. They can use this ability a number of times equal to 1/5th their character level. This is expanded in the subrace section.</p>
+      </description>
+      <sheet>
+         <description>One failing the Langar Yadro have encountered is areas of dead magic. When you enter any area of dead magic, make a Wisdom saving throw, with a DC equal to 30 - your level. On a failure you enter a sleep like state until your core is removed from the area. On a success, you function as normal and do not need to save again in the area you are in.
+
+            Despite this failing though, their innate magic provides them with several special abilities. They gain DR 5 to the element their core embodies.
+
+            In addition they gain access to a focused blast of energy, which deals 1d6 damage of their core element. This increases by 1d6 at 5th, 11th and 18th level. They can use this ability a number of times equal to 1/5th their character level. This is expanded in the subrace section.</description>
+      </sheet>
+   </element>
+   <element name="The Core Survives" type="Racial Trait" source="D&amp;D Wiki" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_THE_CORE_SURVIVES">
+      <description>
+         <p>When you fail three death saves, your body is considered wasted and your core must be retrieved to be placed in a new body. Should someone pick you up, you may choose to have them make a Wisdom saving throw with a DC equal to 10+½ your character level. On a failure you may temporarily control their body. They may make a save again at the end of each round to assume control of their own body.
+
+            You regrow skin, forming a new body over the course of 1d4 weeks. In this time you can be carried and can still use the Innate Magic racial feature but cannot move under your own power.
+
+            A creature may attempt to break your core to end you completely. In this you have an AC of 23 and HP equal to your level plus your Constitution score. You may defend yourself while in this state, see Innate Magic below.</p>
+      </description>
+      <sheet>
+         <description>When you fail three death saves, your body is considered wasted and your core must be retrieved to be placed in a new body. Should someone pick you up, you may choose to have them make a Wisdom saving throw with a DC equal to 10+½ your character level. On a failure you may temporarily control their body. They may make a save again at the end of each round to assume control of their own body.
+
+            You regrow skin, forming a new body over the course of 1d4 weeks. In this time you can be carried and can still use the Innate Magic racial feature but cannot move under your own power.
+
+            A creature may attempt to break your core to end you completely. In this you have an AC of 23 and HP equal to your level plus your Constitution score. You may defend yourself while in this state, see Innate Magic below.</description>
+      </sheet>
+   </element>
+   <element name="Innate Magic" type="Racial Trait" source="D&amp;D Wiki" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_INNATE_MAGIC">
+      <description>
+         <p>When you are in your core form during recovery your innate magic takes over to enable you to protect yourself. In this form you count as a Wild Magic sorcerer, and your level becomes equal to ⅕ your total character level. You have an AC equal 12 + ½ your character level. You may also cast spells based on your core.</p>
+      </description>
+      <sheet>
+         <description>When you are in your core form during recovery your innate magic takes over to enable you to protect yourself. In this form you count as a Wild Magic sorcerer, and your level becomes equal to ⅕ your total character level. You have an AC equal 12 + ½ your character level. You may also cast spells based on your core.</description>
+      </sheet>
+   </element>
+   <element name="Curse Of Olextia" type="Racial Trait" source="D&amp;D Wiki" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_CURSE_OF_OLEXTIA">
+      <description>
+         <p>Ever jealous, Olextia loks for opportunities to ruin the lives of the creatures she has come to hate. Langar Yadro often find themselves under this curse at random times.
+
+                Whenever you make an ability check that requires Charisma there is a 1% chance that Olextia will interfere. This increases by 1% each time you make a check with no interference.</p>
+      </description>
+      <sheet>
+         <description>Ever jealous, Olextia loks for opportunities to ruin the lives of the creatures she has come to hate. Langar Yadro often find themselves under this curse at random times.
+
+                Whenever you make an ability check that requires Charisma there is a 1% chance that Olextia will interfere. This increases by 1% each time you make a check with no interference.</description>
+      </sheet>
+   </element>
+   <element name="Ability Score Increase (Constitution)" type="Racial Trait" source="D&amp;D Wiki" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_CONSITUTION">
+      <supports>Langar Yadro</supports>
+      <requirements />
+      <description>
+         <p>Your Constitution increases by 1.</p>
+      </description>
+      <sheet display="false" />
+      <rules>
+         <stat name="constitution" value="1" />
+      </rules>
+   </element>
+</elements>
