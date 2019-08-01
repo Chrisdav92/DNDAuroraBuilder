@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<elements>
+
+
+-<info>
+
+<name>Langar Yadro</name>
+
+<description>5e homebrew</description>
+
+<author url="http://www.dandwiki.com/wiki/5e_Homebrew">D&D Wiki</author>
+
+
+-<update version="0.0.4">
+
+<file url="https://github.com/Chrisdav92/DNDAuroraBuilder/blob/master/subrace-TopazLangarYadro.xml" name="subrace-TopazLangarYadro.xml"/>
+
+</update>
+
+</info>
+
+
+-<element name="Langar Yadro Subrace" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_SUBRACE" source="Player’s Handbook" type="Racial Trait">
+
+<supports/>
+
+<requirements/>
+
+
+-<description>
+
+<p>Five different crystals which inhabit a Langar Yadro. Choose one of the five subraces.</p>
+
+</description>
+
+<sheet display="false"/>
+
+
+-<rules>
+
+<select name="Langar Yadro Subrace" type="Sub Race" supports="Langar Yadro"/>
+
+</rules>
+
+</element>
+
+
+-<element name="Topaz" id="ID_WIKI_SUBRACE_LANGARYARDRO_TOPAZ" source="D&D Wiki" type="Sub Race">
+
+<supports>LangarYadro</supports>
+
+
+-<description>
+
+<p>Topaz Model of the Langar Yardro. Know for having an infinity for Lighting, this model is one of the more Magic based cores. </p>
+
+
+-<p>
+
+<span class="feature">Ability Score Increase.</span>
+Your Wisdom score increases by 1.
+<br/>
+
+<span class="feature">Core Magic.</span>
+You gain the ability to speak, read, and understand the language of core's primal element which is Terran
+<br/>
+
+</p>
+
+</description>
+
+
+-<element name="Core Magic" id="ID_WIKI_RACIAL_TRAIT_RUNE_LANGARYARDRO_COREMAGIC" source="D&D Wiki" type="Racial Trait">
+
+<description>You gain the ability to speak, read, and understand the language of core's primal element.</description>
+
+
+-<sheet>
+
+<description>You gain the ability to speak, read, and understand the language of core's primal element. Topaz has Terran.</description>
+
+</sheet>
+
+</element>
+
+<sheet display="false" alt="Topaz"/>
+
+
+-<rules>
+
+<stat name="wisdom" value="1"/>
+
+<grant id="ID_LANGUAGE_TERRAN" type="Language"/>
+
+<grant id="ID_WIKI_RACIAL_TRAIT_RUNE_LANGARYARDRO_COREMAGIC" type="Racial Trait"/>
+
+</rules>
+
+</element>
+
+</elements>
