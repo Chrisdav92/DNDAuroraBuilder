@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elements>
-   <elements>
     <info>
-        <name>Homunculus</name>
+        <name>Langar Yadro</name>
         <description>5e homebrew</description>
         <author url="http://www.dandwiki.com/wiki/5e_Homebrew">D&amp;D Wiki</author>
         <update version="0.0.4">
             <file name="race-LangarYadro.xml" url="https://github.com/Chrisdav92/DNDAuroraBuilder/blob/master/race-LangarYadro.xml" />
         </update>
     </info>   
+
    <element name="Langar Yadro" type="Race" source="Homebrew" id="ID_WIKI_RACE_LANGAR YADRO">
       <description>
          <p class="flavor">"Appearances rarely share the whole truth."</p>
@@ -28,11 +28,7 @@
          <p>Langar Yadro live in relative peace. Since the Isle of Huwad is cloaked from outside forces, the race lives in harmony with another, though through stories told by Mother, Siddel Maliyah, would allow the Langar Yadro to know of the evils of the world. Ever courious and blessed with a body that can regenerate, they often try to understand pain and suffering of other races by inflicting it upon there own bodies. With the 5 different gems, they each gave way to different jobs each can do. But due to the fact that the cores can be removed and placed into different bodies,a Langar Yadro can "change" bodies to be better suited for a job.</p>
          <h4>LANGAR YADRO NAMES</h4>
          <p>Since Langar Yadro are able to change bodies, there are no female/male names. Rather, Langar Yadro go by what crystal they pocess. The orginal 5 have desinated names that follow the prefix of Langar Yadro, followed by the Crystal core they have, and finally ending with which "version" they are.</p>
-         <p>
-            <span class="feature">Crystal:</span>
-            Opal, Emerald, Garnet, Topaz, Sapphire
-            <br />
-         </p>
+       
          <h4>LANGAR YADRO TRAITS</h4>
          <p>Langar Yadro were created by a Mother who wanted Children.</p>
          <p>
@@ -52,7 +48,7 @@
             Your base walking speed is 30 feet.
             <br />
             <span class="feature">Emphatic Learners.</span>
-            Langar Yadro are constructs but try to "feel" what each other is going through, this makes them excellent healers. You have proficiency in the Healing skill.
+            Langar Yadro are constructs but try to "feel" what each other is going through, this makes them excellent healers. You have proficiency in the Medicine skill.
             <br />
             <span class="feature">Crystalline Core.</span>
             Your soul is contained in a core made of one of the below types of magically reinforced material. As such, though your body may fail, the core can survive and you may find a new host.
@@ -95,16 +91,14 @@
                 Topaz: Terran
                 Sapphire: Aquan
             <br />
+            <span class="feature">Subrace. </span>Five different crystals which inhabit a Langar Yadro. Choose one of the five subraces.<br />
          </p>
       </description>
       <sheet display="false" />
-      <setters>
-         <set name="names">Opal, Emerald, Garnet, Topaz, Sapphire</set>
-         <set name="names-format">{{name}}</set>
-      </setters>
       <rules>
-         <stat name="constitution" value="2" />
-         <select type="Racial Trait" name="Ability Score Increase (Langar Yadro)" supports="ID_DMMATT_TRAIT_LANGARYADRO_CONSTITUTION" />
+         <stat name="constitution" value="1" />
+         <stat name="wisdom" value="1" />
+         <select type="Racial Trait" name="Ability Score Increase (Langar Yadro)" supports="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_CONSTITUTION" />
          <stat name="innate speed" value="30" bonus="base" />
          <grant type="Size" id="ID_SIZE_MEDIUM" />
          <grant type="Language" id="ID_LANGUAGE_COMMON" />
@@ -116,6 +110,7 @@
          <grant type="Racial Trait" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_THE_CORE_SURVIVES" />
          <grant type="Racial Trait" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_INNATE_MAGIC" />
          <grant type="Racial Trait" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_CURSE_OF_OLEXTIA" />
+         <grant type="Racial Trait" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_SUBRACE" />
       </rules>
    </element>
    <element name="Emphatic Learners" type="Racial Trait" source="D&amp;D Wiki" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_EMPHATIC_LEARNERS">
@@ -209,4 +204,42 @@
          <stat name="constitution" value="1" />
       </rules>
    </element>
+
+------TOPAZ SUBRACE--------
+   <element name="Langar Yadro Subrace" type="Racial Trait" source="Player’s Handbook" id="ID_WIKI_RACIAL_TRAIT_LANGARYADRO_SUBRACE">
+    <supports></supports>
+    <requirements />
+    <description>
+      <p>Five different crystals which inhabit a Langar Yadro. Choose one of the five subraces.</p>
+    </description>
+    <sheet display="false"/>
+    <rules>
+      <select type="Sub Race" name="Langar Yadro Subrace" supports="Langar Yadro" />
+    </rules>
+  </element>
+
+
+    <element name="Topaz" type="Sub Race" source="D&amp;D Wiki" id="ID_WIKI_SUBRACE_LANGARYARDRO_TOPAZ">
+        <supports>LangarYadro</supports>
+        <description>
+            <p>Topaz Model of the Langar Yardro. Know for having an infinity for Lighting, this model is one of the more Magic based cores. </p>
+            <p>
+                <span class="feature">Ability Score Increase.</span>Your Wisdom score increases by 1.<br/>
+                <span class="feature">Core Magic.</span>You gain the ability to speak, read, and understand the language of core's primal element which is Terran<br/>
+
+            </p>
+        </description>       
+    
+    <element name="Core Magic" type="Racial Trait" source="D&amp;D Wiki" id="ID_WIKI_RACIAL_TRAIT_RUNE_LANGARYARDRO_COREMAGIC">
+        <description>You gain the ability to speak, read, and understand the language of core's primal element.</description>
+        <sheet>
+            <description>You gain the ability to speak, read, and understand the language of core's primal element. Topaz has Terran.</description>
+        </sheet>
+    </element>
+        <sheet alt="Topaz" display="false" />
+        <rules>
+            <stat name="wisdom" value="1" />
+            <grant type="Language" id="ID_LANGUAGE_TERRAN" />
+        </rules>
+    </element>
 </elements>
