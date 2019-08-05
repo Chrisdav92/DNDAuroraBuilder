@@ -75,6 +75,7 @@
     <sheet action="Bonus Action">
       <description>
 	  You gain a +{{hexblades curse:hp}} bonus to Passive Perception, and Perception rolls equal to your Charisma modifier.
+	    </description>
     </sheet>
     <rules>
       <stat name="hexblades curse:hp" value="charisma:modifier" />
