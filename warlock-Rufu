@@ -60,22 +60,26 @@
   </element>
   <element name="Faithful Hound" type="Archetype Feature" source="Xanathar’s Guide to Everything" id="ID_HB_ARCHETYPE_FEATURE_RUFU_FAITHFUL_HOUND">
     <description>
-      <p> Starting at first level you gain the service of a hound, sent by Rufu to watch over you. The soul takes the form and stats of a dog. It over your commands which you can give telepathically up to 100 ft away. You gain the following benefits:</p>
+      <p> Starting at first level you gain the service of a hound, sent by Rufu to watch over you. The soul takes the form and stats of a dog. It over your commands which you can give telepathically up to 100 ft away. It has two forms, which depend on your bodys current form. You gain the following benefits:</p>
       <ul>
-        <li>While it shares your square you gain blindsense(30 ft). In addition you gain a bonus to your passive Perception, and Perception rolls equal to your Charisma modifier.</li>
+        <li>While your body is still intact, the canine reverts to a puppy form. In this form the puppy doesn't have normal Death Hound stats (basically cat stats). It shares your square, and you gain blindsense(30 ft). In addition you gain a bonus to your passive Perception, and Perception rolls equal to your Charisma modifier.</li>
         <li>You can see through the dogs eyes and hear what it hears while it is within 100 feet of you.</li>
-        <li>The dog doesn’t require sleep. While it is within 100 feet of you, it can awaken you from sleep as a bonus action.
+        <li>The Hound doesn’t require sleep. While it is within 100 feet of you, it can awaken you from sleep as a bonus action.
         </li>
-        <li>
-            In combat, you roll initiative for the raven and control how it acts. If it is slain by a creature, you gain advantage on all attack rolls against the killer for the next 24 hours. The dog vanishes when it dies, if you die, or if the two of you are separated by more than 5 miles. At the end of a short or long rest, you can call the dog back to you—no matter where it is or whether it died—and it reappears within 5 feet of you.
+        <li>While perched on your shoulder, the pup can’t be targeted by any attack or other harmful effect; only you can cast spells on it; it can’t take damage; and it is incapacitated. This effect goes away if the pup is not on your person, or if your body fails, in which it turns into the Death Hound as described below. 
         </li>
+        <li>If you are slain by a creature, the dog gains advantage on all attack rolls against the killer for the next 24 hours (this effect also occurs should the puppy die and you still live), and turns into The Death Hound. As the Death Hound, the puppy transforms into a hound of Rufu. It retains the stats of a dire wolf with abilites that grow over leveling. In combat, you roll initiative for the Hound and control how it acts. 
+        </li>
+        <li>The hound vanishes when it dies, or if the two of you are separated by more than 5 miles. At the end of a short or long rest, you can call the dog back to you—no matter where it is or whether it died—and it reappears within 5 feet of you.
+        </li>
+        
       </ul>
       <p class="indent">You can’t call the dog again until you finish a short or long rest, if it has died.</p>
     </description>
     <sheet action="Bonus Action">
       <description>
 	  You gain a +{{hexblades curse:hp}} bonus to Passive Perception, and Perception rolls equal to your Charisma modifier.
-	    </description>
+	  </description>
     </sheet>
     <rules>
       <stat name="hexblades curse:hp" value="charisma:modifier" />
